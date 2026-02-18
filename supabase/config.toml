@@ -1,0 +1,4 @@
+project_id = "sznkkobaqnfztljnqqke"
+
+[functions.kisan-chat]
+verify_jwt = false
